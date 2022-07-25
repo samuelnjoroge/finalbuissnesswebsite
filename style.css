@@ -1,0 +1,109 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 20;
+}
+
+body {
+  background-color: #3777a0;
+}
+
+
+div {
+  position: realative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  width: 100%;
+  display: block;
+}
+
+
+
+
+
+
+
+.fun-facts{
+text-align: left;
+  font-size: 20px;
+  position: absolute;
+  left: 0px;
+  top: 100px;
+    list-style-type: circle;
+  
+}
+
+.img2 {
+width: 100%;
+  height: 100%;
+  display: block;
+} 
+
+.title {
+  text-align: right;
+   color: #ff9248;
+      text-shadow: 0 0 30px #AAFF00;
+  font-size: 45px;
+  margin-right: -20px;
+  position: relative;
+  
+}
+
+
+.homepage-text {
+  text-align: center;
+  color: white;
+    text-shadow: 0 0 30px #AAFF00;
+    position: relative;
+  top: 450px;
+  font-size: 100px;
+}
+
+
+.list-of-nav {
+  padding: 0;
+}
+
+.nav-item {
+  font-size: 35px;
+  display: inline-block;
+  list-style-type: none;
+  margin: 20px;
+} 
+
+.main-img {
+  width: 100%;
+}
+.background-about-me {
+  width: 100%;
+height: 100%;
+  position: absolute;
+}
+.center-about-me {
+  text-align: center;
+  font-size:45px;
+  top: 100%;
+  
+  text-shadow: 0 0 30px #AAFF00;
+  color: #8a2be2;
+position: relative;
+    position: relative;
+  top: 60%;
+}
+
+  
+
+
+.what-we-do {
+  text-align: right;
+top: 100%;
+font-size: 45px;
+    text-shadow: 0 0 30px #AAFF00;
+  color: #8a2be2;
+position: relative;
+  width: 50%;
+}
