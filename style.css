@@ -6,62 +6,9 @@ html, body {
 }
 
 body {
-  background-color: #3777a0;
+  background-color: #566c66;
 }
 
-
-div {
-  position: realative;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-img {
-  width: 100%;
-  display: block;
-}
-
-
-
-
-
-
-
-.fun-facts{
-text-align: left;
-  font-size: 20px;
-  position: absolute;
-  left: 0px;
-  top: 100px;
-    list-style-type: circle;
-  
-}
-
-.img2 {
-width: 100%;
-  height: 100%;
-  display: block;
-} 
-
-.title {
-  text-align: right;
-   color: #ff9248;
-      text-shadow: 0 0 30px #AAFF00;
-  font-size: 45px;
-  margin-right: -20px;
-  position: relative;
-  
-}
-
-
-.homepage-text {
-  text-align: center;
-  color: white;
-    text-shadow: 0 0 30px #AAFF00;
-    position: relative;
-  top: 450px;
-  font-size: 100px;
-}
 
 
 .list-of-nav {
@@ -69,41 +16,62 @@ width: 100%;
 }
 
 .nav-item {
-  font-size: 35px;
+  font-size: 30px;
   display: inline-block;
   list-style-type: none;
   margin: 20px;
+  bottom: 800px;
+  position: relative;
 } 
 
 .main-img {
   width: 100%;
+  height: 100%;
+  object-fit: fill;
+  margin: 0px;
+  padding: 0px;
 }
 .background-about-me {
-  width: 100%;
-height: 100%;
-  position: absolute;
+width: 100%;
+  height: 100%;
+
 }
-.center-about-me {
-  text-align: center;
-  font-size:45px;
-  top: 100%;
+.nav-item-about {
+    font-size: 30px;
+  display: inline-block;
+  list-style-type: none;
+  margin: 20px;
+  bottom: 750px;
+  position: relative;
+}
+.fiverrcopy {
+width: 100%;
+  height: 100%;
+}
+
+.nav-item-service {
+    font-size: 30px;
+  display: inline-block;
+  list-style-type: none;
+  margin: 20px;
+  bottom: 770px;
+  position: relative;
   
-  text-shadow: 0 0 30px #AAFF00;
-  color: #8a2be2;
-position: relative;
+}
+.nav-item-contact {
+font-size: 30px;
+  bottom: 500px;
+}
+.nav-item-contacts {
+    font-size: 30px;
+    display: inline-block;
+    list-style-type: none;
+    margin: 20px;
+    bottom: 338px;
+    right: -264px;
     position: relative;
-  top: 60%;
 }
 
-  
 
 
-.what-we-do {
-  text-align: right;
-top: 100%;
-font-size: 45px;
-    text-shadow: 0 0 30px #AAFF00;
-  color: #8a2be2;
-position: relative;
-  width: 50%;
-}
+
